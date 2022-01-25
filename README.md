@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Alya, and i create funny things sometimes.
 
 <!--
 **WeirdoPoop/WeirdoPoop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
